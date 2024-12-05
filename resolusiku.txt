@@ -1,0 +1,2 @@
+Resolusiku:
+- Belajar Github

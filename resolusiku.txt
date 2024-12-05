@@ -1,2 +1,3 @@
 Resolusiku:
 - Belajar Github
+- Belajar Next JS

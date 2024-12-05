@@ -2,3 +2,4 @@ Resolusiku:
 - Belajar Github
 - Belajar Web Development:
   Belajar Javascript Dasar
+  Belajar Python OOP

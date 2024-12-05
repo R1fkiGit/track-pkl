@@ -1,3 +1,4 @@
 Resolusiku:
 - Belajar Github
-- Belajar Web Development
+- Belajar Web Development:
+  Belajar Javascript Dasar
